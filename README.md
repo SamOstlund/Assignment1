@@ -1,8 +1,6 @@
 Name: Sam Ostlund
 FSUID: sco16c
 
-
-
 Output of "git reflog --all"
 500690d (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: checkout: moving from development to master
 44baa89 (origin/development, development) HEAD@{1}: checkout: moving from master to development
